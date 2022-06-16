@@ -1,4 +1,4 @@
-Blockly.Python['ultrasonic_read'] = function(block) {
+Blockly.Python['sonar_read'] = function(block) {
   Blockly.Python.definitions_['import_ultrasonic'] = 'import Ultrasonic';
 
   var dropdown_trig = block.getFieldValue('trig');

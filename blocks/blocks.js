@@ -1,7 +1,7 @@
 Blockly.defineBlocksWithJsonArray([
 {
-  "type": "ultrasonic_read",
-  "message0": "Ultrasonic trig pin: %1 echo pin: %2 read distance (cm)",
+  "type": "sonar_read",
+  "message0": "zonar pin: %1 echo pin: %2 read distance (cm)",
   "args0": [
     {
       "type": "field_dropdown",
