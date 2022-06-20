@@ -3,6 +3,7 @@ Blockly.Python['sonar_read'] = function(block) {
 
   var dropdown_trig = block.getFieldValue('trig');
 
-  var code = `Ultrasonic.read(${dropdown_trig})`;
+  var code = `Ultrasonic.read(32)`;
+ // var code = `Ultrasonic.read(${dropdown_trig})`;
   return [code, Blockly.Python.ORDER_NONE];
 };
