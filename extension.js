@@ -3,7 +3,7 @@
     description: "Get distance from HC-SR04p",
     author: "pramot",
     category: "Sensors",
-    version: "1.0.0",
+    version: "1.0.1",
     icon: "/static/sonaricon.png", // Category icon
     color: "#004098", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
