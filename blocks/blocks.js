@@ -32,44 +32,6 @@ Blockly.defineBlocksWithJsonArray([
           "39"
         ]
       ]
-    },
-    {
-      "type": "field_dropdown",
-      "name": "echo",
-      "options": [
-        [
-          "IN1",
-          "32"
-        ],
-        [
-          "IN2",
-          "33"
-        ],
-        [
-          "IN3",
-          "34"
-        ],
-        [
-          "IN4",
-          "35"
-        ],
-        [
-          "23",
-          "23"
-        ],
-        [
-          "19",
-          "19"
-        ],
-        [
-          "18",
-          "18"
-        ],
-        [
-          "VN",
-          "39"
-        ]
-      ]
     }
   ],
   "output": "Number",
