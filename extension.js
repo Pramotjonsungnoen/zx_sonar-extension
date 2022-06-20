@@ -10,8 +10,11 @@
         {
             xml: `
                 <block type="sonar_read">
-                    <field name="trig">26</field>
-                    <field name="echo">32</field>
+                <value name="trig">
+                        <shadow type="math_number">
+                            <field name="NUM">32</field>
+                        </shadow>
+                    </value>
                 </block>
             `
         }
