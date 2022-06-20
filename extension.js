@@ -4,7 +4,7 @@
     author: "pramot",
     category: "Sensors",
     version: "1.0.0",
-    icon: "/static/icon.png", // Category icon
+    icon: "/static/sonaricon.png", // Category icon
     color: "#004098", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
         {
