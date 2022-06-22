@@ -4,7 +4,7 @@
     author: "mazlogyzop",
     category: "Sensors",
     version: "1.0.1",
-    icon: "/static/sonaricon.png", // Category icon
+    icon: "/static/sonar.png", // Category icon
     color: "#004098", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
         {

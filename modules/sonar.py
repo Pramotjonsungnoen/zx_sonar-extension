@@ -11,18 +11,8 @@ def read(analog_pin):
             a.append(adc.read())
             sleep(0.01)            
         a.sort()
-<<<<<<< HEAD
         v = a[3:7]
         avg = ( sum (v) / len(v) )/27
-=======
-        print(a)
-        print('------')
-        v = a[3:7]
-        print(v)
-        avg = ( sum (v) / len(v) )/27
-        print(avg)
-        
->>>>>>> 493a21c3f976ce4e2374a3ab0116bee8edd71caa
         return int(avg)
     except OSError as ex:
         return -1
