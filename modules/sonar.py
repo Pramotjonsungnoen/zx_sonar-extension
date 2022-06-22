@@ -1,4 +1,3 @@
-from os import terminal_size
 from time import sleep
 from machine import Pin
 from machine import ADC
