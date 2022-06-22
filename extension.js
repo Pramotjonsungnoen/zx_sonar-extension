@@ -1,7 +1,7 @@
 ({
     name: "sonar", // Category Name
-    description: "Get distance from HC-SR04p",
-    author: "pramot",
+    description: "Get distance from ZX-sonar",
+    author: "mazlogyzop",
     category: "Sensors",
     version: "1.0.1",
     icon: "/static/sonaricon.png", // Category icon
