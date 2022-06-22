@@ -11,7 +11,7 @@ Blockly.defineBlocksWithJsonArray([
   ],
   "output": "Number",
   "colour": "#004098",
-  "tooltip": "Get data from Sony Remote",
+  "tooltip": "ZX_sonar",
   "helpUrl": ""
 }
 ]);
